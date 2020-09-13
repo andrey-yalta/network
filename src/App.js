@@ -25,7 +25,7 @@ const Settings = React.lazy(() => import("./components/Settings/Settings"));
 
 class App extends Component {
     catchAllUnhandledErrors = (promiseRejectionEvent)=>{
-        alert("some errors");
+        // alert("some errors");
     }
     componentDidMount() {
         this.props.initializeApp();

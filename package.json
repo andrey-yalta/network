@@ -1,9 +1,9 @@
 {
   "name": "react-kabzda-1",
+  "homepage": "http://andrey-yalta.github.io/network",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://andrey-yalta.github.io/network",
-"dependencies": {
+  "dependencies": {
     "axios": "^0.19.2",
     "classnames": "^2.2.6",
     "react": "^16.6.3",
@@ -14,8 +14,7 @@
     "redux": "^4.0.5",
     "redux-form": "^8.3.6",
     "redux-thunk": "^2.3.0",
-    "reselect": "^4.0.0",
-    "save-dev": "0.0.1-security"
+    "reselect": "^4.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
